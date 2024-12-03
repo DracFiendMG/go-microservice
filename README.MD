@@ -1,3 +1,5 @@
+A simple microservice using where you can add a user and view the list of users
+
 Microservice Structure:
 
 go-microservice/
