@@ -1,4 +1,4 @@
-A simple microservice using where you can add a user and view the list of users
+A simple microservice using Go Lang where you can add a user and view the list of users
 
 Microservice Structure:
 
